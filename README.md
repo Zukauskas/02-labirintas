@@ -1,3 +1,5 @@
+![LICENSE](https://img.shields.io/github/license/zukauskas/02-ufo?style=for-the-badge)
+
 # 02-labirintas
 
 _website design project_
@@ -64,7 +66,7 @@ Tautvydas: [Github](https://github.com/Zukauskas)
 
 ## ⚠️ License
 
-Distributed under the MIT License. See LICENSE for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/Zukauskas/02-labirintas/blob/main/LICENSE) for more information.
 
 ## 🔗 Other resources
 
